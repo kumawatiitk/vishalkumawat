@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vishalkumawat/static/css/main.c0752024.chunk.css",
+    "main.js": "/vishalkumawat/static/js/main.3e61d620.chunk.js",
+    "main.js.map": "/vishalkumawat/static/js/main.3e61d620.chunk.js.map",
+    "runtime-main.js": "/vishalkumawat/static/js/runtime-main.547fda85.js",
+    "runtime-main.js.map": "/vishalkumawat/static/js/runtime-main.547fda85.js.map",
+    "static/js/2.b4fd9c01.chunk.js": "/vishalkumawat/static/js/2.b4fd9c01.chunk.js",
+    "static/js/2.b4fd9c01.chunk.js.map": "/vishalkumawat/static/js/2.b4fd9c01.chunk.js.map",
+    "static/js/3.ea75def7.chunk.js": "/vishalkumawat/static/js/3.ea75def7.chunk.js",
+    "static/js/3.ea75def7.chunk.js.map": "/vishalkumawat/static/js/3.ea75def7.chunk.js.map",
+    "index.html": "/vishalkumawat/index.html",
+    "static/css/main.c0752024.chunk.css.map": "/vishalkumawat/static/css/main.c0752024.chunk.css.map",
+    "static/js/2.b4fd9c01.chunk.js.LICENSE.txt": "/vishalkumawat/static/js/2.b4fd9c01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.547fda85.js",
+    "static/js/2.b4fd9c01.chunk.js",
+    "static/css/main.c0752024.chunk.css",
+    "static/js/main.3e61d620.chunk.js"
+  ]
+}
